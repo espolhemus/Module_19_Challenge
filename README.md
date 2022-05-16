@@ -11,7 +11,7 @@ The purpose of this challenge is to take a delimited text file containing a numb
 
 - Data Preprocessing:
 
--- Target Variable(s)
+ -- Target Variable(s)
 
 The target variable for purposes of our analysis is the IS_SUCCESSFUL column in the dataset.
 
@@ -19,19 +19,19 @@ The target variable for purposes of our analysis is the IS_SUCCESSFUL column in 
 
 The features we utilized to inform our neural network include:
 
-  --- APPLICATION_TYPE
-  --- AFFILIATION
-  --- CLASSIFICATION
-  --- USE_CASE
-  --- ORGANIZATION
-  --- STATUS
-  --- INCOME_AMT
-  --- SPECIAL_CONSIDERATIONS
-  --- ASK_AMT
+   --- APPLICATION_TYPE
+   --- AFFILIATION
+   --- CLASSIFICATION
+   --- USE_CASE
+   --- ORGANIZATION
+   --- STATUS
+   --- INCOME_AMT
+   --- SPECIAL_CONSIDERATIONS
+   --- ASK_AMT
 
- -- Compiling, Training, and Evaluating the Model
+  -- Compiling, Training, and Evaluating the Model
 
-  --- Our Initial Parameters were:
+   --- Our Initial Parameters were:
  
 ![Parameters](/images/initial_params.png)
 
